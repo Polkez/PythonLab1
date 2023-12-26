@@ -46,7 +46,7 @@ To Do:
 * If either income or tax has an invalid value, print `Invalid input`
 
 
-> _Hint: Use type() to check the input type_
+> _Hint: Use isdigit() to check the input type_
 
 
 ### __Task 2.2: Loops__
