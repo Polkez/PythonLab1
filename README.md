@@ -94,7 +94,7 @@ else:
 ```
 The comment has describes the wrong logic that the code had but in a readable form, `number % 2`, if it is equal to 1 it is an odd number and 0 if it is an even number.
 
-When the codebase of your program grows, Always comment, as your comment will preserve the logic that you used at the time. So always comments especially complicated code.
+When the codebase of your program grows, Always comment, as your comment will preserve the logic that you used at the time. So always comment __especially__ on complicated code.
 
 ### __Task 3: It smells pretty bad in here...__
 This code has all flavours of errors, and it is really disgusting, please fix it for me.
