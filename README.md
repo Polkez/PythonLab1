@@ -1,5 +1,5 @@
 # Lab 1: Variables, Booleans and user errors
-This lab will deal with improving your understanding of variables, booleans and user errors through the use of boolean expressions and variables.
+This lab will deal with improving your understanding of variables, booleans and user errors.
 
 `tax.py` will be used for task 1 and task 2
 
@@ -94,7 +94,7 @@ else:
 ```
 The comment has describes the wrong logic that the code had but in a readable form, `number % 2`, if it is equal to 1 it is an odd number and 0 if it is an even number.
 
-When the codebase of your program grows, it becomes really important to comment as you will not remember everything you did. So always comment!
+When the codebase of your program grows, Always comment, as your comment will preserve the logic that you used at the time. So always comments especially complicated code.
 
 ### __Task 3: It smells pretty bad in here...__
 This code has all flavours of errors, and it is really disgusting, please fix it for me.
