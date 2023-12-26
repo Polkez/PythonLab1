@@ -1,5 +1,5 @@
 # Lab 1: Variables, Booleans and user errors
-This lab will deal with improving your understanding of variables, booleans and user errors through the use of boolean expressions, variable assignments
+This lab will deal with improving your understanding of variables, booleans and user errors through the use of boolean expressions and variables.
 
 `tax.py` will be used for task 1 and task 2
 
@@ -60,7 +60,7 @@ How would you use a while or a for loop to do this?
 ### *__Preface 2: Semantic Errors__*
 
 Logic Errors are any errors related incorrect logic inside the code, i.e:
-* Any logic that is causes an unintended result.
+* Any logic that causes an unintended result.
 - A user wants to check if x is more than y but puts `x < y`
    - Uses the wrong conditioanl operator
 * Operation that were not done in order
