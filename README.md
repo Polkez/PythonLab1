@@ -99,7 +99,7 @@ When the codebase of your program grows, Always comment, as your comment will pr
 ### __Task 3: It smells pretty bad in here...__
 This code has all flavours of errors, and it is really disgusting, please fix it for me.
 
-Correct all errors and change comments if there are logical or semantic errors.
+Correct all errors if there are logical or semantic errors.
 
 Assume the comments are correct and the coded logic is not `:)`
 
